@@ -67,7 +67,7 @@ function SendWishes( {urlCode, urlName, urlType} ) {
             'invitation_code': urlCode,
             'invitation_name': urlName,
         }
-        let url = 'https://project.Hakimussalam.com/wishes?' + ( new URLSearchParams( params ) ).toString();
+        let url = 'https://ekahakim.netlify.app/wishes?' + ( new URLSearchParams( params ) ).toString();
         try{
           await fetch(url, { mode: 'no-cors'}, {
             method: 'GET'

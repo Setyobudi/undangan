@@ -13,7 +13,7 @@ function GenerateLink() {
 
   const { data, loading } = useGuestData();
 
-  const URL = `https://Eka.Hakimussalam.com?to=${encodeURIComponent(name).replace(/%20/g, "+")}`;
+  const URL = `https://ekahakim.netlify.app?to=${encodeURIComponent(name).replace(/%20/g, "+")}`;
 
   const handleChange = (e) => {
     setType(parseInt(e.target.value, 10));
@@ -112,7 +112,7 @@ function GenerateLink() {
               </thead>
               <tbody>
                 {data.map((d, index) => {
-                  const mapURL = `https://Eka.Hakimussalam.com?to=${encodeURIComponent(d.name).replace(/%20/g, "+")}&type=invitation&code=${d.code}`;
+                  const mapURL = `https://ekahakim.netlify.app?to=${encodeURIComponent(d.name).replace(/%20/g, "+")}&type=invitation&code=${d.code}`;
                   return (
                     <tr>
                       <td>{index + 1}</td>
