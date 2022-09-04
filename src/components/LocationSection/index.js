@@ -30,7 +30,7 @@ function LocationSection() {
           <div className="row">
             <div className="col-md-10 col-md-offset-1">
               <iframe
-                src="https://maps.google.com/maps?q=Klinik%20Bintari%20Medika&t=&z=13&ie=UTF8&iwloc=&output=embed"
+                src="https://goo.gl/maps/KTfH9tSgkEL5VvcQ9&t=&z=13&ie=UTF8&iwloc=&output=embed"
                 width="100%"
                 height="450"
                 frameBorder="0"
@@ -63,7 +63,7 @@ function LocationSection() {
           <div className="row">
             <div className="col-md-10 col-md-offset-1">
               <iframe
-                src="https://maps.google.com/maps?q=Klinik%20Bintari%20Medika&t=&z=13&ie=UTF8&iwloc=&output=embed"
+                src="https://goo.gl/maps/i1H4E2jwdW49Ggsp7&t=&z=13&ie=UTF8&iwloc=&output=embed"
                 width="100%"
                 height="450"
                 frameBorder="0"
