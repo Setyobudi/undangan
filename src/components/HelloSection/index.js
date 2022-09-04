@@ -18,8 +18,8 @@ function HelloSection({ isInvitation }) {
 			  <h2 className="main-font">Assalamualaikum Wr. Wb</h2>
 			  
 			  <p className="info">
-			  		Maha Suci Allah,
-				Yang telah menciptakan makhluknya berpasang-pasangan
+			  		Maha Suci Allah,<br/>
+				Yang telah menciptakan makhluknya berpasang-pasangan<br/>
 				Ya Allah perkenankanlah dan ridhoilah 
 				pernikahan kami :
 			  </p>
