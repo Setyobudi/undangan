@@ -11,7 +11,7 @@ import WeddingSection from '@components/WeddingSection';
 import LocationSection from '@components/LocationSection';
 //import StorySection from '@components/StorySection';
 import PhotoSection from '@components/PhotoSection/Loadable';
-import WishesSection from '@components/WishesSection';
+//import WishesSection from '@components/WishesSection';
 import ConfirmationSection from '@components/ConfirmationSection';
 import FooterSection from '@components/FooterSection';
 //import CovidSection from '@components/Covid19';
@@ -47,7 +47,7 @@ function Home({ location }) {
         <LocationSection />
         
         <PhotoSection />
-        <WishesSection isInvitation={isInvitation} />
+        
         <ConfirmationSection guestName={firstName} isInvitation={isInvitation} codeLink={finalTicketLink} />
         <FooterSection isInvitation={isInvitation} />
       </Fragment>
