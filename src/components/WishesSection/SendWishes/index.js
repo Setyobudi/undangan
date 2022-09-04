@@ -87,7 +87,7 @@ function SendWishes( {urlCode, urlName, urlType} ) {
 
       <Fragment>
         <form name="wish" method="POST" enctype="multipart/form-data" data-netlify="true" netlify-honeypot="bot-field" hidden>
-        <input type="hidden" name="wish" value="wish"/>
+        
           <div className="row">
             <div className="col-md-4 col-md-offset-4">
               <div class="form-group">
