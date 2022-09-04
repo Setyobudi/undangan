@@ -1,5 +1,6 @@
 import React, { Fragment } from 'react';
-import { GOOGLE_MAPS_LINK } from '@/constants';
+import { GOOGLE_MAPS_EKA } from '@/constants';
+import { GOOGLE_MAPS_HAKIM } from '@/constants';
 import { styWrapper } from './styles';
 import Peta from '@assets/images/peta.jpeg';
 
@@ -13,7 +14,7 @@ function LocationSection() {
               <h2 className="main-font">Lokasi Acara</h2>
               <p className="sub-title">
                 <a
-                  href={GOOGLE_MAPS_LINK}
+                  href={GOOGLE_MAPS_EKA}
                   title="Click untuk melihat peta di Google Maps"
                   target="_blank"
                   rel="noreferrer"
@@ -46,7 +47,7 @@ function LocationSection() {
             <div className="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
               <p className="sub-title">
                 <a
-                  href={GOOGLE_MAPS_LINK}
+                  href={GOOGLE_MAPS_HAKIM}
                   title="Click untuk melihat peta di Google Maps"
                   target="_blank"
                   rel="noreferrer"
