@@ -2,8 +2,8 @@
  * Link
  */
 export const GOOGLE_CALENDAR_LINK = `https://calendar.google.com/calendar/event?action=TEMPLATE&dates=20220924T010000Z%2F20220924T080000Z&text=Eka+%26+Hakim+Wedding&details=Eka+%26+Hakim+Wedding`;
-export const GOOGLE_MAPS_LINK = `https://goo.gl/maps/kfFTBJKwRhw3qWut8`;
-
+export const GOOGLE_MAPS_EKA = `https://goo.gl/maps/KTfH9tSgkEL5VvcQ9`;
+export const GOOGLE_MAPS_HAKIM = `https://goo.gl/maps/i1H4E2jwdW49Ggsp7`;
 /**
  * Wedding time
  */
