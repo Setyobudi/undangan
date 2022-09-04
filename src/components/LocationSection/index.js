@@ -30,7 +30,7 @@ function LocationSection() {
           <div className="row">
             <div className="col-md-10 col-md-offset-1">
               <iframe
-                src="https://goo.gl/maps/KTfH9tSgkEL5VvcQ9"
+                src="https://maps.google.com/maps?q=7%C2%B045'52.7%22S%20111%C2%B055'39.5%22E&t=&z=13&ie=UTF8&iwloc=&output=embed"
                 width="100%"
                 height="450"
                 frameBorder="0"
@@ -63,7 +63,7 @@ function LocationSection() {
           <div className="row">
             <div className="col-md-10 col-md-offset-1">
               <iframe
-                src="https://goo.gl/maps/i1H4E2jwdW49Ggsp7"
+                src="https://maps.google.com/maps?q=Galang%20Network&t=&z=13&ie=UTF8&iwloc=&output=embed"
                 width="100%"
                 height="450"
                 frameBorder="0"
