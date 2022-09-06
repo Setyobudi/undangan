@@ -12,8 +12,8 @@ function FooterSection({ isInvitation }) {
                 <small className="block">&copy; 2022 Created by Hakim with lots of 🤎 for Eka.</small>
                 <small className="block">
                   Song by{' '}
-                  <a href="https://www.youtube.com/watch?v=fb167KAxvrg" target="_blank" rel="noreferrer">
-                    Anandito Anisa - Pernikahan Impian
+                  <a href="https://youtu.be/VqLU4wPzDVg" target="_blank" rel="noreferrer">
+                  Haley Reinhart - Can't Help Falling In Love
                   </a>
                 </small>
                 <small className="block">
