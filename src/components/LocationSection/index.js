@@ -23,7 +23,7 @@ function LocationSection() {
                   <strong>Lokasi Eka</strong>
                 </a>{' '}
                 <br />
-                RT 026 RW 012 Dusun Kajar
+                RT 003 RW 001 Dusun Kajar
                 Desa Kalipang, Kecamatan Grogol, Kabupaten Kediri
               </p>
             </div>
