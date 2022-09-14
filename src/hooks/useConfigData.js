@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import offlineConfigData from '../../api/shift.json';
+//import offlineConfigData from '../../api/shift.json';
 
 function useConfigData() {
   const [loading, setLoading] = useState(false);
