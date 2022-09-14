@@ -27,7 +27,7 @@ function TicketData({ guest, configData }) {
           )}
           <div class="tinfo">Waktu</div>
           <div class="tdata">
-            11.00 s/d 15.00 WIB
+            09.00 WIB s/d Selesai
           </div>
           {/* attendance */}
           {guest.isAttended ? (
