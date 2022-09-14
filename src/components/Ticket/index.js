@@ -30,23 +30,23 @@ function TicketData({ guest, configData }) {
             09.00 WIB s/d Selesai
           </div>
           {/* attendance */}
-          {guest.isAttended ? (
+          {/** guest.isAttended ? (
             <>
               <div class="tinfo">Sudah hadir pada</div>
               <div class="tdata">
                 <span class="badge badge-success">{guest.attendedAt}</span>
               </div>
             </>
-          ) : null}
+          ) : null */}
           {/** souvenir */}
-          {guest.isExchanged ? (
+          {/** guest.isExchanged ? (
             <>
               <div class="tinfo">Sudah menukarkan souvenir pada</div>
               <div class="tdata">
                 <span class="badge badge-success">{guest.exchangedAt}</span>
               </div>
             </>
-          ) : null}
+          ) : null */}
           {/* Additional info */}
           <div class="tinfo">Note:</div>
           <div class="tdata additional">
