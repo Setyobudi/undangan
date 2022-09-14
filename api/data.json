@@ -1,0 +1,460 @@
+﻿{
+    "Arin": [
+        {
+            "Kode": "AXM-0001",
+            "Nama": "Memel dan keluarga"
+        },
+        {
+            "Kode": "AXM-0002",
+            "Nama": "Gigis dan keluarga"
+        },
+        {
+            "Kode": "AXM-0003",
+            "Nama": "Nana dan keluarga"
+        },
+        {
+            "Kode": "AXM-0004",
+            "Nama": "Buna dan keluarga"
+        },
+        {
+            "Kode": "AXM-0005",
+            "Nama": "Imad dan Suami"
+        },
+        {
+            "Kode": "AXM-0006",
+            "Nama": "Moulvi"
+        },
+        {
+            "Kode": "AXM-0007",
+            "Nama": "Teh Amy dan Suami"
+        },
+        {
+            "Kode": "AXM-0008",
+            "Nama": "Resna "
+        },
+        {
+            "Kode": "AXM-0009",
+            "Nama": "Teh Meila dan suami "
+        },
+        {
+            "Kode": "AXM-0010",
+            "Nama": "Hasna Sakinah"
+        },
+        {
+            "Kode": "AXM-0011",
+            "Nama": "Auliya Syifa"
+        }
+    ],
+    "Miftah": [
+        {
+            "Kode": "AXM-0201",
+            "Nama": "BSP IT Family",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0202",
+            "Nama": "Vivastor",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0203",
+            "Nama": "Ikhsan Bafadhal",
+            "Keterangan": "Depok"
+        },
+        {
+            "Kode": "AXM-0204",
+            "Nama": "Widiana Juniar",
+            "Keterangan": "Padalarang"
+        },
+        {
+            "Kode": "AXM-0205",
+            "Nama": "Vitraining team",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0206",
+            "Nama": "XWITACO",
+            "Keterangan": "Jakarta"
+        },
+        {
+            "Kode": "AXM-0207",
+            "Nama": "Agung Arisandi",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0208",
+            "Nama": "Yusup Nur Karimah",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0209",
+            "Nama": "Septian Adam",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0210",
+            "Nama": "IRMA SPN",
+            "Keterangan": "Sarual, Petir, Nangorak"
+        },
+        {
+            "Kode": "AXM-0211",
+            "Nama": "Caca & Amadea",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0212",
+            "Nama": "Heru & Khalda",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0213",
+            "Nama": "Dede Eri & istri",
+            "Keterangan": "Majalengka"
+        },
+        {
+            "Kode": "AXM-0214",
+            "Nama": "Bayu & istri",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0215",
+            "Nama": "Lutfi & istri",
+            "Keterangan": "Tasikmalaya"
+        },
+        {
+            "Kode": "AXM-0216",
+            "Nama": "Atep",
+            "Keterangan": "Cicalengka"
+        },
+        {
+            "Kode": "AXM-0217",
+            "Nama": "Ajeng & Fajar",
+            "Keterangan": "Garut"
+        },
+        {
+            "Kode": "AXM-0218",
+            "Nama": "Desih & suami",
+            "Keterangan": "Jakarta"
+        },
+        {
+            "Kode": "AXM-0219",
+            "Nama": "Elma",
+            "Keterangan": "Garut"
+        },
+        {
+            "Kode": "AXM-0220",
+            "Nama": "Susi & suami",
+            "Keterangan": "Jakarta"
+        },
+        {
+            "Kode": "AXM-0221",
+            "Nama": "Andi & istri",
+            "Keterangan": "Jakarta"
+        },
+        {
+            "Kode": "AXM-0222",
+            "Nama": "Wibicon team",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0223",
+            "Nama": "IF Widyatama 2016",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0224",
+            "Nama": "Alumni MTS MIFA 2015",
+            "Keterangan": "Garut"
+        },
+        {
+            "Kode": "AXM-0225",
+            "Nama": "Tria & suami",
+            "Keterangan": "Bekasi"
+        },
+        {
+            "Kode": "AXM-0226",
+            "Nama": "Sumiati & suami",
+            "Keterangan": "Kuningan"
+        },
+        {
+            "Kode": "AXM-0227",
+            "Nama": "Yusuf dan Heni",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0228",
+            "Nama": "Rahmat dan istri",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0229",
+            "Nama": "Cici Novianti",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0230",
+            "Nama": "Deri",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0231",
+            "Nama": "Candra dan istri",
+            "Keterangan": "Cikarang"
+        },
+        {
+            "Kode": "AXM-0232",
+            "Nama": "Rega dan Nurul",
+            "Keterangan": "Garut"
+        },
+        {
+            "Kode": "AXM-0233",
+            "Nama": "Ibes",
+            "Keterangan": "Garut"
+        },
+        {
+            "Kode": "AXM-0234",
+            "Nama": "Choirul Arifin dan istri",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0235",
+            "Nama": "Ega Kamaludin",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0236",
+            "Nama": "Retno dan suami",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0237",
+            "Nama": "Abdurrahmannesa dan istri",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0238",
+            "Nama": "Agus Salim dan istri",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0239",
+            "Nama": "Joko dan istri",
+            "Keterangan": "Cikarang"
+        },
+        {
+            "Kode": "AXM-0240",
+            "Nama": "Fauzan dan istri",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0241",
+            "Nama": "Isti Novianti",
+            "Keterangan": "Jakarta"
+        },
+        {
+            "Kode": "AXM-0242",
+            "Nama": "Firman dan istri",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0243",
+            "Nama": "Agus Suwerdo",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0244",
+            "Nama": "Leni Aprianti dan Suami",
+            "Keterangan": "Garut"
+        },
+        {
+            "Kode": "AXM-0245",
+            "Nama": "Evi dan suami",
+            "Keterangan": "Garut"
+        },
+        {
+            "Kode": "AXM-0246",
+            "Nama": "Wilfan Setiawan",
+            "Keterangan": "Cianjur"
+        },
+        {
+            "Kode": "AXM-0247",
+            "Nama": "Tirtowanto",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0248",
+            "Nama": "Cecep dan istri",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0249",
+            "Nama": "Jaka Bilal",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0250",
+            "Nama": "Dea",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0251",
+            "Nama": "Lani Nur'aeni",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0252",
+            "Nama": "Diana",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0253",
+            "Nama": "Nia dan suami",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0254",
+            "Nama": "Asep Rijaludin",
+            "Keterangan": "Jakarta"
+        },
+        {
+            "Kode": "AXM-0255",
+            "Nama": "Yusuf dan Anis",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0256",
+            "Nama": "Ilham",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0257",
+            "Nama": "Deni Awaludin dan istri",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0258",
+            "Nama": "Sansan Sobirin",
+            "Keterangan": "Garut"
+        },
+        {
+            "Kode": "AXM-0259",
+            "Nama": "Syukron dan istri",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0260",
+            "Nama": "Redi Kusmayadi dan istri",
+            "Keterangan": "Garut"
+        },
+        {
+            "Kode": "AXM-0261",
+            "Nama": "Rizal Adiguna",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0262",
+            "Nama": "Husen Saeful Rahman",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0263",
+            "Nama": "Mimin dan istri",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0264",
+            "Nama": "Reza Adi Wibowo",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0265",
+            "Nama": "Tri Azidin",
+            "Keterangan": "Garut"
+        },
+        {
+            "Kode": "AXM-0266",
+            "Nama": "Dindin dan istri",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0267",
+            "Nama": "Diwan",
+            "Keterangan": "Garut"
+        },
+        {
+            "Kode": "AXM-0268",
+            "Nama": "Dela Julianti",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0269",
+            "Nama": "Rijal dan Hesti",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0270",
+            "Nama": "Aditya Nugraha dan istri",
+            "Keterangan": "Jakarta"
+        },
+        {
+            "Kode": "AXM-0271",
+            "Nama": "Arif dan istri",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0272",
+            "Nama": "Fandi",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0273",
+            "Nama": "Krizki",
+            "Keterangan": "Garut"
+        },
+        {
+            "Kode": "AXM-0274",
+            "Nama": "Muhammad Salafudin",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0275",
+            "Nama": "Reza Recsamulia",
+            "Keterangan": "Garut"
+        },
+        {
+            "Kode": "AXM-0276",
+            "Nama": "Setiaji dan istri",
+            "Keterangan": "Cianjur"
+        },
+        {
+            "Kode": "AXM-0277",
+            "Nama": "Aa Cahyana",
+            "Keterangan": "Garut"
+        },
+        {
+            "Kode": "AXM-0278",
+            "Nama": "Heru Hermawan dan istri",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0279",
+            "Nama": "Djoyo dan istri",
+            "Keterangan": "Bandung"
+        },
+        {
+            "Kode": "AXM-0280",
+            "Nama": "Stevan dan istri",
+            "Keterangan": "Bali"
+        },
+        {
+            "Kode": "AXM-0281",
+            "Nama": "Sadriah dan Ida Sastradirja",
+            "Keterangan": "Bandung"
+        }
+    ],
+    "Bapa &amp; Ibu": [
+        {
+            "Kode": "AXM-0401"
+        }
+    ]
+}
