@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import offlineGuestData from '../../api/guest-data.json';
+import offlineGuestData from '../../api/data.json';
 
 function useGuestData() {
   const [loading, setLoading] = useState(false);
