@@ -21,7 +21,7 @@ function WeddingSection({ isInvitation }) {
           <div className="row">
             <div className="col-md-10 col-md-offset-1">
             <WeddingInfoBox
-                title="Acara Resepsi"
+                title="Akad dan Acara Resepsi"
                 time="09.00 WIB"
                 date="Sabtu, 24 September 2022"
                 description="RT 003 RW 001 Dusun Kajar Desa Kalipang, Kecamatan Grogol, Kabupaten Kediri"
