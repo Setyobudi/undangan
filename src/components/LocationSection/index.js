@@ -62,7 +62,7 @@ function LocationSection() {
           <div className="row">
             <div className="col-md-10 col-md-offset-1">
               <iframe
-                src="https://maps.google.com/maps?q=Galang%20Networks&t=&z=13&ie=UTF8&iwloc=&output=embed"
+                src="https://maps.google.com/maps?q=&t=&z=13&ie=UTF8&iwloc=&output=embed"
                 width="100%"
                 height="450"
                 frameBorder="0"
