@@ -23,15 +23,14 @@ function LocationSection() {
                   <strong>Lokasi Eka</strong>
                 </a>{' '}
                 <br />
-                RT 003 RW 001 Dusun Kajar
-                Desa Kalipang, Kecamatan Grogol, Kabupaten Kediri
+                Acara sudah berlangsung
               </p>
             </div>
           </div>
           <div className="row">
             <div className="col-md-10 col-md-offset-1">
               <iframe
-                src="https://maps.google.com/maps?q=7%C2%B045'52.7%22S%20111%C2%B055'39.5%22E&t=&z=13&ie=UTF8&iwloc=&output=embed"
+                src="https://maps.google.com/maps?q=7%C2%B045'52.7%22S%20111%C2%B0551'39.5%22E&t=&z=13&ie=UTF8&iwloc=&output=embed"
                 width="100%"
                 height="450"
                 frameBorder="0"
@@ -56,15 +55,14 @@ function LocationSection() {
                   <strong>Lokasi Hakim</strong>
                 </a>{' '}
                 <br />
-                RT 026 RW 012 Dusun Winongsari Kulon
-                Desa Bakalan, Kecamatan Grogol, Kabupaten Kediri
+                Acara sudah berlangsung
               </p>
             </div>
           </div>
           <div className="row">
             <div className="col-md-10 col-md-offset-1">
               <iframe
-                src="https://maps.google.com/maps?q=Galang%20Network&t=&z=13&ie=UTF8&iwloc=&output=embed"
+                src="https://maps.google.com/maps?q=Galang%20Networks&t=&z=13&ie=UTF8&iwloc=&output=embed"
                 width="100%"
                 height="450"
                 frameBorder="0"
