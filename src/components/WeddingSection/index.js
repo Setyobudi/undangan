@@ -24,13 +24,13 @@ function WeddingSection({ isInvitation }) {
                 title="Akad dan Acara Resepsi"
                 time="09.00 WIB"
                 date="Sabtu, 24 September 2022"
-                description="RT 003 RW 001 Dusun Kajar Desa Kalipang, Kecamatan Grogol, Kabupaten Kediri"
+                description="Acara sudah berlangsung"
             />
             <WeddingInfoBox
               title="Ngunduh Mantu"
               time="09.00 WIB"
               date="Minggu, 25 September 2022"
-              description="RT 026 RW 012 Dusun Winongsari Kulon Desa Bakalan, Kecamatan Grogol, Kabupaten Kediri"
+              description="Acara sudah berlangsung"
             />
             </div>
           </div>
